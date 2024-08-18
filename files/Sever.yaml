@@ -1,0 +1,13 @@
+Sever:
+  ip: 0.0.0.0
+  port: 33780
+encrypt: true
+mysql:
+  External_libraries: true
+  Users: root
+  initiate: false
+  ip: 127.0.0.1
+  password: ''
+  port: 3306
+  sever: mysql5743_2
+version: 0.1.2
