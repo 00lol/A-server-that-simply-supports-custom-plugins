@@ -1,0 +1,9 @@
+pymysql==1.1.1
+flask==3.0.3
+cryptography==42.0.8
+requests==2.32.3
+pyyaml
+func_timeout
+loguru
+tqdm
+zipfile

@@ -2,12 +2,12 @@
 * **简介**  
     这是一个基于python Flask 框架的极其简易的服务器。正如标题，这玩意
     是支持自定义插件的
-* **食用方法**
+* **食用方法**  
     1.在windows下直接右键run.bat以管理员生身份运行即可  
     2.在linux下在运行终端直接运行以下代码  
-    `$ gh repo clone 00lol/A-server-that-simply-supports-custom-plugins `  
-    `$ cd A-server-that-simply-supports-custom-plugins/`  
-    `$ bash run.sh`  
+    `$ gh repo clone 00lol/A-server-that-simply-supports-custom-plugins `    
+    `$ cd A-server-that-simply-supports-custom-plugins/`    
+    `$ bash run.sh`    
     前提是得安装python
 * **命令行**  
 一个好的服务端怎么能少得了命令行呢？  
